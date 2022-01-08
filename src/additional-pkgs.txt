@@ -1,0 +1,2 @@
+cinnamon
+gnome-online-accounts
